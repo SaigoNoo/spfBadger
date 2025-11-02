@@ -1,0 +1,4 @@
+textual
+pythonbeid
+rich
+openpyxl
